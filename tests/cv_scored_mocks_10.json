@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "fullName": "Канин Юрий",
+    "location": 0.8,
+    "jobPreferences": 0.9,
+    "experience": {
+      "totalYears": 0.75,
+      "relevance": 0.85
+    },
+    "education": 0.7,
+    "courses": 0.0,
+    "skills": 0.95,
+    "languages": 0.8,
+    "additionalInfo": 0.6
+  },
+    {
+      "id": 2,
+      "fullName": "Пуп Пупов",
+      "location": 0.7,
+      "jobPreferences": 0.42,
+      "experience": {
+        "totalYears": 0.03,
+        "relevance": 0.22
+      },
+      "education": 0.51,
+      "courses": 0.03,
+      "skills": 0.2,
+      "languages": 0.65,
+      "additionalInfo": 0.54
+    },
+    {
+      "id": 3,
+      "fullName": "Кот Котов",
+      "location": 0.3,
+      "jobPreferences": 0.22,
+      "experience": {
+        "totalYears": 0.59,
+        "relevance": 0.81
+      },
+      "education": 0.01,
+      "courses": 0.81,
+      "skills": 0.7,
+      "languages": 0.34,
+      "additionalInfo": 0.16
+    },
+    {
+      "id": 4,
+      "fullName": "Еж Ежович",
+      "location": 0.9,
+      "jobPreferences": 0.96,
+      "experience": {
+        "totalYears": 0.34,
+        "relevance": 0.09
+      },
+      "education": 0.1,
+      "courses": 0.85,
+      "skills": 0.6,
+      "languages": 0.81,
+      "additionalInfo": 0.73
+    },
+    {
+      "id": 5,
+      "fullName": "Поп Попов",
+      "location": 1.0,
+      "jobPreferences": 0.54,
+      "experience": {
+        "totalYears": 0.97,
+        "relevance": 0.38
+      },
+      "education": 0.55,
+      "courses": 0.83,
+      "skills": 0.62,
+      "languages": 0.86,
+      "additionalInfo": 0.58
+    },
+    {
+      "id": 6,
+      "fullName": "Угг Уггович",
+      "location": 0.1,
+      "jobPreferences": 0.7,
+      "experience": {
+        "totalYears": 0.05,
+        "relevance": 0.23
+      },
+      "education": 0.29,
+      "courses": 0.08,
+      "skills": 0.23,
+      "languages": 0.1,
+      "additionalInfo": 0.28
+    },
+    {
+      "id": 7,
+      "fullName": "Ганс Гансович",
+      "location": 0.3,
+      "jobPreferences": 0.64,
+      "experience": {
+        "totalYears": 0.36,
+        "relevance": 0.37
+      },
+      "education": 0.21,
+      "courses": 0.27,
+      "skills": 0.94,
+      "languages": 0.65,
+      "additionalInfo": 0.61
+    },
+    {
+      "id": 8,
+      "fullName": "Питер Петров",
+      "location": 0.76,
+      "jobPreferences": 0.17,
+      "experience": {
+        "totalYears": 0.73,
+        "relevance": 0.16
+      },
+      "education": 0.38,
+      "courses": 0.99,
+      "skills": 0.64,
+      "languages": 0.56,
+      "additionalInfo": 0.68
+    },
+    {
+      "id": 9,
+      "fullName": "Джон Джонсон",
+      "location": 0.65,
+      "jobPreferences": 0.84,
+      "experience": {
+        "totalYears": 0.78,
+        "relevance": 0.23
+      },
+      "education": 0.03,
+      "courses": 0.32,
+      "skills": 0.27,
+      "languages": 0.21,
+      "additionalInfo": 0.94
+    },
+    {
+      "id": 10,
+      "fullName": "Петр Петров",
+      "location": 0.35,
+      "jobPreferences": 0.88,
+      "experience": {
+        "totalYears": 0.31,
+        "relevance": 0.66
+      },
+      "education": 0.4,
+      "courses": 0.91,
+      "skills": 0.46,
+      "languages": 0.26,
+      "additionalInfo": 0.25
+    }
+  ]

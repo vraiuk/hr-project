@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "fullName": "Канин Юрий",
+  "location": 0.8,
+  "jobPreferences": 0.9,
+  "experience": {
+    "totalYears": 0.75,
+    "relevance": 0.85
+  },
+  "education": 0.7,
+  "courses": 0.0,
+  "skills": 0.95,
+  "languages": 0.8,
+  "additionalInfo": 0.6
+}
